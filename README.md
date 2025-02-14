@@ -1,7 +1,4 @@
-# LinkedListLab
-# LinkedListLab - AI and Data Structures
 
-## **Author**: Ahmed Farag Mahmoud  
 ## **Lab Name**: Linked List Implementation with Unit Tests  
 
 ### **Description**
